@@ -1,2 +1,2 @@
-# IBM_FinalProject_BudgetAllocationApp
-Final project of IBM Front End Development_ Budgeting Allocation App
+# IBM FinalProject Budget Allocation App
+This is the final project of the IBM Front End Development Budgeting Allocation App
